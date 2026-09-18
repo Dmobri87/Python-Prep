@@ -1,0 +1,5 @@
+# --- Hermes: secretos de produccion NUNCA se versionan ---
+.env.production
+.env.production.local
+!.env.production.template
+!.env.production.example
